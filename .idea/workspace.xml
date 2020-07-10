@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be0bbfc5-c117-425f-9db1-606f38d2c1e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eEHphQAHMG1TeCkvpcMT2KrUPU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.html.dart">
+    <configuration name="async.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/async.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calllabble.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/calllabble.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="html.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/html.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="intasy.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/intasy.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="real.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/real.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/server.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.html.dart" />
+        <item itemvalue="Dart Command Line App.server.dart" />
+        <item itemvalue="Dart Command Line App.intasy.dart" />
+        <item itemvalue="Dart Command Line App.async.dart" />
+        <item itemvalue="Dart Command Line App.calllabble.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be0bbfc5-c117-425f-9db1-606f38d2c1e6" name="Default Changelist" comment="" />
+      <created>1593880016780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593880016780</updated>
+      <workItem from="1593880022448" duration="7497000" />
+      <workItem from="1593950795871" duration="7988000" />
+      <workItem from="1594045412799" duration="1875000" />
+      <workItem from="1594054281668" duration="774000" />
+      <workItem from="1594070920324" duration="35000" />
+      <workItem from="1594307822207" duration="12925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594380951622">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1594380951622" />
+    <state x="384" y="201" width="587" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594380750180">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="384" y="201" width="587" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1594380750180" />
+    <state x="357" y="133" width="642" height="527" key="#real.dart" timestamp="1594316894037">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="357" y="133" width="642" height="527" key="#real.dart/0.27.1366.741@0.27.1366.741" timestamp="1594316894037" />
+    <state x="461" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1594054674962">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="461" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1280.1024@0.27.1366.741" timestamp="1594054674962" />
+    <state width="1320" height="220" key="GridCell.Tab.0.bottom" timestamp="1594384773721">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="231" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1280.1024@0.27.1366.741" timestamp="1593967341149" />
+    <state width="1320" height="220" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1594384773721" />
+    <state width="1320" height="215" key="GridCell.Tab.0.bottom/0.27.2646.997@0.27.2646.997" timestamp="1593887478984" />
+    <state width="1320" height="220" key="GridCell.Tab.0.center" timestamp="1594384773720">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="231" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1280.1024@0.27.1366.741" timestamp="1593967341149" />
+    <state width="1320" height="220" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1594384773720" />
+    <state width="1320" height="215" key="GridCell.Tab.0.center/0.27.2646.997@0.27.2646.997" timestamp="1593887478984" />
+    <state width="1320" height="220" key="GridCell.Tab.0.left" timestamp="1594384773720">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="231" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1280.1024@0.27.1366.741" timestamp="1593967341149" />
+    <state width="1320" height="220" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1594384773720" />
+    <state width="1320" height="215" key="GridCell.Tab.0.left/0.27.2646.997@0.27.2646.997" timestamp="1593887478984" />
+    <state width="1320" height="220" key="GridCell.Tab.0.right" timestamp="1594384773721">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="231" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1280.1024@0.27.1366.741" timestamp="1593967341149" />
+    <state width="1320" height="220" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1594384773721" />
+    <state width="1320" height="215" key="GridCell.Tab.0.right/0.27.2646.997@0.27.2646.997" timestamp="1593887478984" />
+    <state x="89" y="30" key="SettingsEditor" timestamp="1594045633473">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="89" y="30" key="SettingsEditor/0.27.1366.741/1366.0.1280.1024@0.27.1366.741" timestamp="1594045633473" />
+    <state x="172" y="31" key="SettingsEditor/0.27.2646.997@0.27.2646.997" timestamp="1593882619310" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1594070940849">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1280.1024@0.27.1366.741" timestamp="1594054289450" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1594070940849" />
+    <state x="0" y="123" width="1356" height="547" key="new project wizard" timestamp="1594054677045">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="123" width="1356" height="547" key="new project wizard/0.27.1366.741/1366.0.1280.1024@0.27.1366.741" timestamp="1594054677045" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1594308132218">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1594308132218" />
+  </component>
+</project>
